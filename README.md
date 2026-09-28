@@ -2,3 +2,5 @@
 
 ## C++ is Enemy.
 ## I will NEVER FORGIVE Python.
+## Perl is Beautiful Language.
+## Swift is God.
